@@ -7,3 +7,6 @@
 [submodule "addons/topic_tags"]
 	path = addons/topic_tags
 	url = git@github.com:emanuele45/topic_tags
+[submodule "addons/SimpleSEF"]
+	path = addons/SimpleSEF
+	url = git@github.com:emanuele45/SimpleSEF
